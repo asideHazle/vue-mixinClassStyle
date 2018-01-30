@@ -3,7 +3,7 @@
 ## Use
 *main.js*
 ```js
-import mixinClassStyle from 'path/to/mixinClassStyle'
+import mixinClassStyle from 'path/to/vue-mixinClassStyle'
 
 Vue.use(mixinClassStyle)
 ```
