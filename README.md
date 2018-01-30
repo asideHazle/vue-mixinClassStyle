@@ -10,7 +10,7 @@ Vue.use(mixinClassStyle)
 
 *tempate*
 ```html
-<div v-mixinClassStyle="{class:['common', 'responsive']}" class="origin"></div>
+<div v-mixinClassStyle="{'class':['common', 'responsive']}" class="origin"></div>
 ```
 
 ## Render
